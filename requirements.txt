@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+transformers
+numpy
+pandas
+opencv-python
+pydantic-settings
+redis
